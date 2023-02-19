@@ -21,7 +21,7 @@ function App() {
     synth.speak(utterThis);
     }
 
-
+console.lof('j)
  /*   const handleSpeehToText=()=>{
       let recognition = new window.webkitSpeechRecognition();
       //const speechRecognitionList = new window.SpeechGrammarList();
@@ -55,5 +55,8 @@ console.log('hi',createBrowserRouter([{path:'/',element:<Home/>},{path:'/cart',e
           </section>
         </article>*/
 //hadell
+if(true){
+  console.log('hi')
+}
 
      // if(nsme['jafeelmjnklf;i. gi come abck to home o feel safe i think whr,m yu beconme mired become ha[ppy i dont noe but i tdur fro trus fro  me if you when t t be ha[ppy you shoud becine confideance in allah to belive anf feel happy finally i con say last word for you live in life eith lard to become haap y becase evry thing may load i arhink convidean ce ato i aure frome thiat but ypoui soud yoiu brlive you to bec amr happy']) 
