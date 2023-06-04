@@ -1,0 +1,17 @@
+/*@import "bootstrap/scss/bootstrap";
+@import "bootstrap-icons/font/bootstrap-icons.css";*/
+.icon-color {
+  color: white;
+}
+
+.theme-icon {
+  margin-left: 40px;
+}
+
+button, link {
+  cursor: pointer;
+}
+
+.margin-of-item {
+  margin-left: 60%;
+}/*# sourceMappingURL=styles.css.map */
